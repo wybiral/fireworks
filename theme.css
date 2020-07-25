@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #1e1e1e;
+    color: #f8f8f2;
+    font-size: 110%;
+    font-family: sans-serif;
+}
+
+main {
+    max-width: 640px;
+    margin: 0px auto;
+}
+
+.bubble {
+    width: 0.75em;
+    height: 0.75em;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 0.25em;
+}
