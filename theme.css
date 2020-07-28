@@ -12,6 +12,34 @@ main {
     margin: 0px auto;
 }
 
+h1 {
+    color: #fd971f;
+}
+
+h2 {
+    color: #a6e22e;
+}
+
+h3 {
+    color: #ae81ff;
+}
+
+h4 {
+    color: #f92672;
+}
+
+.c0 {
+    color: #1e1e1e;
+}
+
+.c1 {
+    color: #f8f8f2;
+}
+
+nav {
+    margin-top: 0.5em;
+}
+
 .bubble {
     width: 0.75em;
     height: 0.75em;
