@@ -17,20 +17,28 @@ main > img {
     height: auto;
 }
 
-h1 {
-    color: #fd971f;
+a:link {
+    color: #66d9ef;
 }
 
-h2 {
-    color: #a6e22e;
-}
-
-h3 {
+a:visited {
     color: #ae81ff;
 }
 
+h1 {
+    color: #a6e22e;
+}
+
+h2 {
+    color: #e6db74;
+}
+
+h3 {
+    color: #fd971f;
+}
+
 h4 {
-    color: #f92672;
+    color: #f92672
 }
 
 .c0 {
